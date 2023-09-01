@@ -135,6 +135,7 @@
         <module>websphere-liberty-23.x-plugin</module>
         <module>aerospike-plugin</module>
         <module>rocketMQ-client-java-5.x-plugin</module>
+        <module>arthas-control-plugin</module>
     </modules>
     <packaging>pom</packaging>
 
